@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HolaMundoBoton</string>
+    <string name="ejecutar_toast">Ejecutar Toast</string>
+</resources>
